@@ -1,4 +1,5 @@
-首先按照如下安装
+安装所需的软件包
+
 sudo pip install -r requirements.txt
 
 
@@ -7,5 +8,6 @@ sudo pip install -r requirements.txt
 AUTH_LDAP_BIND_DN = "leeyan"
 
 AUTH_LDAP_BIND_PASSWORD = '******'
+
 
 
