@@ -2,7 +2,7 @@ ansible==2.3.2.0
 ansible-vault==1.0.4
 anyjson==0.3.3
 celery==3.1.25
-Django==1.8.11
+Django==1.11.29
 django-auth-ldap==1.2.14
 django-bootstrap-toolkit==2.15.0
 future==0.16.0
